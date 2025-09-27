@@ -1,6 +1,24 @@
 {
   "sites": [
+       {
+      "key": "baofeng-xjl",
+      "name": "暴风",
+      "type": 0,
+      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
+      "key": "aiqun-xjl",
+      "name": "爱坤",
+      "type": 0,
+      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
       "key": "feifan-xjl",
       "name": "非凡",
       "type": 0,
@@ -10,13 +28,103 @@
       "filterable": 1
     },
     {
-      "key": "baofeng-xjl",
-      "name": "暴风",
+      "key": "liangzi-xjl",
+      "name": "量子",
       "type": 0,
-      "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "xinlang",
+      "name": "新浪",
+      "type": 0,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "huya-xjl",
+      "name": "虎牙",
+      "type": 0,
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "hongnui",
+      "name": "红牛",
+      "type": 0,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "ruyi",
+      "name": "如意",
+      "type": 0,
+      "api": "https://cj.rycjapi.com/api.php/provide/vod/from/ruyi/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "mozhua",
+      "name": "魔抓",
+      "type": 0,
+      "api": "https://mozhuazy.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "maotai",
+      "name": "茅台",
+      "type": 0,
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "suoni",
+      "name": "索尼",
+      "type": 0,
+      "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "youku",
+      "name": "U酷",
+      "type": 1,
+      "api": " https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haohua",
+      "name": "豪华",
+      "type": 0,
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhyun/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "subo",
+      "name": "速播",
+      "type": 0,
+      "api": "https://subocj.com/api.php/provide/vod/from/subyun/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
