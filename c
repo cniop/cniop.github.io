@@ -1,6 +1,6 @@
 {
   "sites": [
-       {
+    {
       "key": "baofeng-xjl",
       "name": "暴风",
       "type": 0,
@@ -10,15 +10,6 @@
       "filterable": 1
     },
     {
-      "key": "aiqun-xjl",
-      "name": "爱坤",
-      "type": 0,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-     {
       "key": "feifan-xjl",
       "name": "非凡",
       "type": 0,
