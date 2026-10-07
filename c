@@ -7,7 +7,15 @@
       "api": "https://bfzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+       "categories": [
+                "电影片",
+                "动作片",
+    "喜剧片","科幻片",
+                "战争片",
+                "国产剧","香港剧","韩国剧","大陆综艺"          
+               
+            ]
     },
     {
       "key": "feifan-xjl",
