@@ -1,6 +1,6 @@
 {
   "sites": [
-    {
+   {
       "key": "baofeng-xjl",
       "name": "暴风",
       "type": 0,
@@ -8,14 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "categories": [
-                "电影片",
-                "动作片",
-    "喜剧片","科幻片",
-                "战争片",
-                "国产剧","香港剧","韩国剧","大陆综艺"          
-               
-            ]
+       "categories": [ "动作片","国产剧","喜剧片","科幻片", "战争片","香港剧","韩国剧"]
     },
     {
       "key": "feifan-xjl",
@@ -24,7 +17,8 @@
       "api": "http://api.ffzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+       "categories": [ "动作片","国产剧","喜剧片","科幻片", "战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","泰国剧","短剧"]
     },
     {
       "key": "liangzi-xjl",
@@ -33,7 +27,8 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "categories": ["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","电影解说","短剧","AI漫剧"]
     },
     {
       "key": "xinlang",
@@ -60,7 +55,8 @@
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+       "categories": ["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","电影解说","短剧","AI漫剧"]
     },
     {
       "key": "ruyi",
@@ -96,7 +92,8 @@
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+       "categories": ["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港剧","韩剧","欧美剧","台剧","日剧","海外剧","泰剧"]
     },
     {
       "key": "youku",
@@ -105,7 +102,8 @@
       "api": " https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+       "categories": ["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","电影解说","短剧","AI漫剧"]
     },
     {
       "key": "haohua",
@@ -114,7 +112,8 @@
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhyun/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+       "categories": ["动作片","内地剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","电影解说","短剧","AI漫剧"]
     },
     {
       "key": "subo",
