@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "categories": [ "动作片","国产剧","喜剧片","科幻片", "战争片","香港剧","韩国剧"]
+       "categories": [ "动作片","国产剧","喜剧片","科幻片", "战争片","香港剧","韩国剧","短剧","AI漫剧"]
     },
     {
       "key": "feifan-xjl",
@@ -163,6 +163,16 @@
       "quickSearch": 1,
       "filterable": 1,
        "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","短剧"]
+    },
+        {
+      "key": "zuidazy",
+      "name": "最大",
+      "type": 0,
+      "api": "http://zuidazy.me/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","邵氏电影","Netflix电影","短剧"]
     }
   ],
   "lives": [
@@ -183,6 +193,11 @@
       "name": "解析1",
       "type": 0,
       "url": "https://hd.iapijy.com/play?url="
+    },
+          {
+      "name": "解析2",
+      "type": 0,
+      "url": "https://jx.zdplay.cc/m3u8Player/?url="
     }
   ],
   "flags": [
