@@ -146,33 +146,23 @@
     },
     {
       "key": "jyzyapi",
-      "name": "速更",
+      "name": "金鹰",
       "type": 0,
       "api": "https://jyzyapi.com/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧"]
+       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","AI漫剧"]
     },
      {
       "key": "lovedan",
-      "name": "毒蜥蜴",
+      "name": "艾旦",
       "type": 0,
       "api": "https://lovedan.net/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧"]
-    },
-     {
-      "key": "apiyhzy",
-      "name": "yhzy",
-      "type": 0,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧"]
+       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧","短剧"]
     }
   ],
   "lives": [
@@ -192,7 +182,7 @@
     {
       "name": "解析1",
       "type": 0,
-      "url": "https://xxx.xxx?jx="
+      "url": "https://hd.iapijy.com/play?url="
     }
   ],
   "flags": [
