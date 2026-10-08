@@ -123,6 +123,56 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+         {
+      "key": "wujinapi",
+      "name": "无尽",
+      "type": 0,
+      "api": "https://api.wujinapi.me/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧"]
+    },
+     {
+      "key": "sdzyapi",
+      "name": "芒果",
+      "type": 0,
+      "api": "https://sdzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧"]
+    },
+    {
+      "key": "jyzyapi",
+      "name": "速更",
+      "type": 0,
+      "api": "https://jyzyapi.com/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧"]
+    },
+     {
+      "key": "lovedan",
+      "name": "毒蜥蜴",
+      "type": 0,
+      "api": "https://lovedan.net/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧"]
+    },
+     {
+      "key": "apiyhzy",
+      "name": "yhzy",
+      "type": 0,
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+       "categories": ["动作片","国产剧","喜剧片","科幻片","恐怖片","剧情片","战争片","港台剧","日韩剧","欧美剧"]
     }
   ],
   "lives": [
